@@ -28,3 +28,8 @@ def login():
 			break
 
 login()
+
+
+def sum(x,y):
+	return x+y
+
